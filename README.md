@@ -1,6 +1,6 @@
 ### Hello there 👋👋👋
 
-My Name is Niklas, I am a DevOps Engineer with several years of experience in implementing, optimizing and automating cloud infrastructures. I enjoy working on developing innovative solutions and love exploring and trying new technologies. My focus is on automating IT processes, optimizing infrastructures and managing servers and containers.
+My name is Niklas, I am a DevOps Engineer with several years of experience in implementing, optimizing and automating cloud infrastructures. I enjoy working on developing innovative solutions and love exploring and trying new technologies. My focus is on automating IT processes, optimizing infrastructures and managing servers and containers.
 
 <!--
 **niklash-dev/niklash-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
