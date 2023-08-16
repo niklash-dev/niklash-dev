@@ -23,4 +23,10 @@ ___
 <img align="left" alt="Raspberrypi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<br />
+<br /><br />
+
+___
+
+### Latest Projects
+
+- [wastemeeter.app](https://wastemeeter.app): A web tool showing real-time financial costs of meetings based on participants and salaries. Encourages efficient, cost-effective meetings.
