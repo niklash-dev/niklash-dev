@@ -30,3 +30,12 @@ ___
 ### Latest Projects
 
 - [wastemeeter.app](https://wastemeeter.app): A web tool showing real-time financial costs of meetings based on participants and salaries. Encourages efficient, cost-effective meetings.
+
+___
+
+### Latest GitHub Gists
+
+- [**gistfile1.txt**](https://gist.github.com/niklash-dev/a4762636a65073857db592d936363c74) : TEST
+- [**start_pipeline.md**](https://gist.github.com/niklash-dev/9a7a53cfbf6ab87f11575da75e2d61c4) : Trigger a Pipeline with custom variables in a GitLab Project using Python and the GitLab API
+
+Feel free to check them out and provide any feedback!
