@@ -25,7 +25,7 @@ jobs:
 
     - name: Sync Gists
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use the provided GitHub token
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
       run: python .github/scripts/sync_gists.py
 
     - name: Commit and push if changes
