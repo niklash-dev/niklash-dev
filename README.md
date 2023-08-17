@@ -35,7 +35,6 @@ ___
 
 ### Latest GitHub Gists
 
-- [**gistfile1.txt**](https://gist.github.com/niklash-dev/bbad270b6eb01aa7ec99ac19caf912b0) : Test Gist
 - [**start_pipeline.md**](https://gist.github.com/niklash-dev/9a7a53cfbf6ab87f11575da75e2d61c4) : Trigger a Pipeline with custom variables in a GitLab Project using Python and the GitLab API
 
 Feel free to check them out and provide any feedback!
