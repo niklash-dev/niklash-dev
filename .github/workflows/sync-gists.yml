@@ -1,8 +1,9 @@
 name: Sync Gists with README
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+      - cron: '0 0 * * *'
 
 jobs:
   sync:
@@ -24,7 +25,7 @@ jobs:
 
     - name: Sync Gists
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use the provided GitHub token
       run: python .github/scripts/sync_gists.py
 
     - name: Commit and push if changes
