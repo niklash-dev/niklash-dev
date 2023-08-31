@@ -35,6 +35,7 @@ ___
 
 ### Latest GitHub Gists
 
+- [**Get_Azure_Token_with_SP_in_Python.md**](https://gist.github.com/niklash-dev/2a63eb4e661675c9421470e3e664c7fd) : Get Azure Token using Service Principal (SP) in Python
 - [**start_pipeline.md**](https://gist.github.com/niklash-dev/9a7a53cfbf6ab87f11575da75e2d61c4) : Trigger a Pipeline with custom variables in a GitLab Project using Python and the GitLab API
 
 Feel free to check them out and provide any feedback!
