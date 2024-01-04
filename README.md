@@ -2,9 +2,9 @@
 
 **`DevOps Engineer / Automator / Dog Owner`**
 
-Hello there <img src=https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif  width="20" height="20">, I am Niklas a DevOps Engineer with several years of experience in implementing, optimizing and automating cloud infrastructures. I enjoy working on developing innovative solutions and love exploring and trying new technologies. My focus is on automating IT processes, optimizing infrastructures and managing servers and containers.
+Hello there <img src=https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif  width="20" height="20">, I am Niklas, a Product Owner and former DevOps Engineer with several years of experience in implementing, optimizing, and automating cloud infrastructures. Currently, I'm at the helm of our Kubernetes platform, sailing through the seas of container orchestration with an eye for adventure and efficiency.
 
-I hold a Bachelor of Science in Business Informatics with a specialization in Software Engineering from the Cooperative State University in Mannheim, which I earned in 2019. Since then, I have been working at one of the largest German food retailers as a DevOps Engineer.
+I earned a Bachelor of Science in Business Informatics, with a focus on Software Engineering, from the Cooperative State University in Mannheim in 2019. After graduating, I developed my skills at one of the largest German food retailers, where my journey in DevOps laid the groundwork for my current venture into product management, specifically for Kubernetes solutions.
 
 If you'd like to connect with me, don't hesitate to reach out via email at contact@niklash.dev 💻.
 ___
