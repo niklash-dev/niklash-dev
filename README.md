@@ -27,12 +27,6 @@ ___
 
 ___
 
-### Latest Projects
-
-- [wastemeeter.app](https://wastemeeter.app): A web tool showing real-time financial costs of meetings based on participants and salaries. Encourages efficient, cost-effective meetings.
-
-___
-
 ### Latest GitHub Gists
 
 - [**Get_Azure_Token_with_SP_in_Python.md**](https://gist.github.com/niklash-dev/2a63eb4e661675c9421470e3e664c7fd) : Get Azure Token using Service Principal (SP) in Python
